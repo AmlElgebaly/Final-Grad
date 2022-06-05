@@ -1,0 +1,133 @@
+.bg-login-image {
+    background-image: url('../img/photo_2022-05-04_17-24-55.jpg');
+      background-position: center;
+      background-size: cover;
+    }
+    .bg-register-image {
+      background: url("../img/photo_2022-05-04_18-37-03.jpg");
+      background-position: center;
+      background-size: cover;
+    }    
+    form.user .custom-checkbox.small label {
+      line-height: 1.5rem;
+    }
+    
+    form.user .form-control-user {
+      font-size: 0.8rem;
+      border-radius: 10rem;
+      padding: .9rem 1rem;
+    }
+    
+    form.user .btn-user {
+    
+      font-size: 0.8rem;
+      border-radius: 10rem;
+      padding: .9rem 1rem;
+    }
+    .btn-main{
+      color: #fff;
+      background-color: #019668;
+      border-color: #fff;
+    
+
+    }
+    .btn-login:hover {
+      color: #fff;
+      background-color: #04684995;
+      border-color: #e6e6e6;
+    }
+    .btn-google {
+      color: #fff;
+      background-color:#de392bf0;
+      border-color: #fff;
+    }
+    .btn-google:hover {
+      color: #fff;
+      background-color:#cd2517f0;
+      border-color: #e6e6e6;
+    }
+    
+    .btn-google:focus, .btn-google.focus {
+      color: #fff;
+      background-color: #e12717;
+      border-color: #e6e6e6;
+      box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+    }
+    
+    .btn-google.disabled, .btn-google:disabled {
+      color: #fff;
+      background-color: #ea4335;
+      border-color: #fff;
+    }
+    
+    .btn-google:not(:disabled):not(.disabled):active, .btn-google:not(:disabled):not(.disabled).active,
+    .show > .btn-google.dropdown-toggle {
+      color: #fff;
+      background-color: #d62516;
+      border-color: #dfdfdf;
+    }
+    
+    .btn-google:not(:disabled):not(.disabled):active:focus, .btn-google:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-google.dropdown-toggle:focus {
+      box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+    }
+    
+    .btn-facebook {
+      color: #fff;
+      background-color:  #1a3ea6;
+      border-color: #fff;
+    }
+    
+    .btn-facebook:hover {
+      color: #fff;
+      background-color:#293c74;
+      border-color: #e6e6e6;
+    }
+    
+    .btn-facebook:focus, .btn-facebook.focus {
+      color: #fff;
+      background-color: #30497c;
+      border-color: #e6e6e6;
+      box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+    }
+    
+    .btn-facebook.disabled, .btn-facebook:disabled {
+      color: #fff;
+      background-color: #3b5998;
+      border-color: #fff;
+    }
+    
+    .btn-facebook:not(:disabled):not(.disabled):active, .btn-facebook:not(:disabled):not(.disabled).active,
+    .show > .btn-facebook.dropdown-toggle {
+      color: #fff;
+      background-color: #2d4373;
+      border-color: #dfdfdf;
+    }
+    
+    .btn-facebook:not(:disabled):not(.disabled):active:focus, .btn-facebook:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-facebook.dropdown-toggle:focus {
+      box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+    }
+    .form-group {
+        margin-bottom: 1rem;
+      }
+        .form-inline .form-group {
+    display: flex;
+    flex: 0 0 auto;
+    flex-flow: row wrap;
+    align-items: center;
+    margin-bottom: 0;
+  }
+  .btn-block{
+    margin-left: 25%;
+    width: 50%;
+  }
+  .btn-with{
+    
+    width:45%;
+  }
+  .links{
+    display: flex !important;
+    justify-content: center;
+  }
+  
